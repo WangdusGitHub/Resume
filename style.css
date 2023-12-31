@@ -85,6 +85,7 @@ p{
     bottom: 50px;
     right: 40px;
     background-color: #439ee5;
+    display: none;
 }
 .btn i{
     padding: 10px;
@@ -125,5 +126,8 @@ p{
         /* float: left; */
         width: 100%;
         padding: 10px;
+    }
+    .btn{
+    display: block;
     }
 }
